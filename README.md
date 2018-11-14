@@ -10,14 +10,14 @@ November 13th, 2018
 Kalien Keys
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment allowed me to create an application that would respond to a user's commands (left and right arrows).  With user control, the application would respond with the photo gallery.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned more about how to implement the getElementsByTagName method.
+2. I learned how to utilize button functions that would respond to user inputs (i.e. left and right arrow).
+3. I learned how to use the createElement method.
 
