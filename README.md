@@ -13,8 +13,7 @@ Kalien Keys
 This assignment allowed me to create an application that would respond to a user's commands (left and right arrows).  With user control, the application would respond with the photo gallery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kzk15fsu.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. I learned more about how to implement the getElementsByTagName method.
